@@ -2,6 +2,7 @@
 AirChina Remove Ads - Version 1.0
 Please note that you may need to reinstall app for script to work.
 */
+
 const url = $request.url;
 const resp = {};
 const header = $request.headers;

@@ -2,6 +2,7 @@
 12306 Remove Ads - Version 1.0
 Please note that you may need to reinstall app for script to work.
 */
+
 const url = $request.url;
 const header = $request.headers;
 const headopt = header["Operation-Type"] || header["operation-type"];

@@ -1,10 +1,12 @@
 ### 1️⃣ Quantumult X 配置
-  - 配置文件最新维护时间 : 05/27/2025
+  - 配置文件最新维护时间 : 05/30/2025
   - 自用配置文件 [QuantumultX.conf](https://raw.githubusercontent.com/Szeto7/QuanX/refs/heads/master/QX.conf)
   
     > 食用方法 : Quantumult X 设置 -> 下载配置 -> 替换节点信息
-  - 该配置已测试适配AppStroe最新版 Quantumult X, 内含智能分流, Google自动翻页, 内容农场 ,Youtube广告屏蔽, 网易云, 高德地图, 菜鸟裹裹, 小红书去广告等.
-  - 适合自己才是最好的。
+    > 下载配置时显示无效自变量 : 请挂🪜或在链接的raw前加上https://gh-proxy.com/, 如:https://gh-proxy.com/raw.githubusercontent.com/........
+
+  - 该配置已测试适配AppStroe最新版 Quantumult X, 内含智能分流, 重写去广告等.
+  - 适合自己才是最好的, 多多探索.
 ### 2️⃣ Quantumult X 分流
   - 苹果服务 [Apple.list](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list) 
   - ChatGPT [OpenAI.list](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list) 

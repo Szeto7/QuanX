@@ -7,7 +7,9 @@ let obj = {
     img: "",
     times: 0,
     url: "",
-    remark: ""
+    remark: "",
+    showFrequen: null,
+    accessibleText: null
   }
 };
 $done({ body: JSON.stringify(obj) });

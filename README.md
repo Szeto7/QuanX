@@ -2,8 +2,11 @@
   - 配置文件最新维护时间 : 05/30/2025
   - 自用配置文件 [QuantumultX.conf](https://raw.githubusercontent.com/Szeto7/QuanX/refs/heads/master/QX.conf)
   
-    > 食用方法 : Quantumult X 设置 -> 下载配置 -> 替换节点信息
-    > 下载配置时显示无效自变量 : 请挂🪜或在链接的raw前加上https://gh-proxy.com/, 如:https://gh-proxy.com/raw.githubusercontent.com/........
+    > 食用方法 : Quantumult X 设置 -> 下载配置 -> 替换节点信息  
+    
+    > 下载配置时显示无效自变量 : 请挂🪜或在链接的raw前加上https://gh-proxy.com/  
+    
+    > 示例 : https://gh-proxy.com/raw.githubusercontent.com/........
 
   - 该配置已测试适配AppStroe最新版 Quantumult X, 内含智能分流, 重写去广告等.
   - 适合自己才是最好的, 多多探索.

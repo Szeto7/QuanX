@@ -1,4 +1,4 @@
-const version = 'V1.0.23';
+const version = 'V2';
 
 var obj = JSON.parse($request.body), SZETO = {};
 

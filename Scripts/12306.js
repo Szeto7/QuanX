@@ -1,5 +1,8 @@
-const version = 'V2';
+/*
+12306 移除广告
+*/
 
+const version = 'V2';
 var obj = JSON.parse($request.body), SZETO = {};
 
 if ("0007" == obj.placementNo) {

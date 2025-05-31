@@ -1,4 +1,7 @@
-// 返回空的开屏图数据
+/*
+浙里办 移除广告
+*/
+
 let obj = {
   success: true,
   resultCode: 0,

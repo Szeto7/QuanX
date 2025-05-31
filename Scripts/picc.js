@@ -1,6 +1,5 @@
 /*
-12306 Remove Ads - Version 1.0
-Please note that you may need to reinstall app for script to work.
+中国人保 移除广告
 */
 
 const Body = JSON.parse($response.body);

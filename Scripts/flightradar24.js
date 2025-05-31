@@ -1,3 +1,7 @@
+/*
+Flightradar24 移除广告
+*/
+
 var version_ = 'jsjiami.com.v7',
     _0x3697 = (function() {
         return [...[version_, 'nDrjOrsGgjqGiaOmpiJR.eceboGPmF.xIvp7KNMh==', 'W4aGp8ofp8k2fConyNRcRqu', 'pmojfCkJWRRdO37cLSk3W47cKSkHceBdGSoYWPXLW5O', 'kJbyrSoEWPJcKSogamoJ', 'x2yLWP4hW7xcLq', 'WR7cGHyao8kIra', 'kZPEt8obWPVdHa', 'W5hdTKO8W5JdMmki', 'WOJdRCk+WOO2WPLz', 'W6pdVMtdLtVcIG', 'eu8FWRab', 'WQSswxlcId8D', 'WPD6BmkwA8oNnq', 'xh0OWPa', 'A8kxrSoZW7VcTYO', 'WRiMWOO+cmoqWPhdGIrJW7W9wa', 'EmotW6BdQ8kDW4ym', 'g8o+WRSKW4xdSmkvCmkEWRu', 'WPpdKujI', 'W6mYWRefA8oHc8kketJcMYfOW7ldTCoAuZzaW6tdISk/WOW6dIraW5NcOCoQiSkokwlcV3ddVCk5WQVdNmkoW45T'], ...(function() {

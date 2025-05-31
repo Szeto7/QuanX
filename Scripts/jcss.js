@@ -1,4 +1,7 @@
-// 返回空的开屏图数据
+/*
+警察叔叔 移除广告
+*/
+
 let obj = {
   success: true,
   resultCode: 0,

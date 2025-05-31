@@ -1,31 +1,23 @@
-/*
-12306 Remove Ads - Version 1.0
-Please note that you may need to reinstall app for script to work.
-*/
+const version = 'V1.0.23';
 
-const url = $request.url;
-const header = $request.headers;
-const headopt = header["Operation-Type"] || header["operation-type"];
+var obj = JSON.parse($request.body), SZETO = {};
 
-const blockList = [
-  // "com.cars.otsmobile.bangbangSafe.deciveInfo", // 设备序列号
-  // "com.cars.otsmobile.checkLoginStatus", // 登录信息
-  // "com.cars.otsmobile.city",
-  // "com.cars.otsmobile.initCountry",
-  // "com.cars.otsmobile.initNewSysCache",
-  // "com.cars.otsmobile.initProvince",
-  //"com.cars.otsmobile.integration.activityBanner", // 活动横幅
-  "com.cars.otsmobile.memberInfo.getMemberQa", // 铁路会员 常见问题
-  // "com.cars.otsmobile.memberInfo.integrationHomeInit", // 铁路会员 会员信息
-  // "com.cars.otsmobile.newHomePage.getWeatherByStationCode", // 天气信息
-  "com.cars.otsmobile.newHomePage.initData", // 热门资讯
-  "com.cars.otsmobile.newHomePageBussData" // 商品信息流
-  // "com.cars.otsmobile.newHomePageRefresh",
-  // "com.cars.otsmobile.travelPage.initData", // 出行服务
-];
-
-if (blockList?.includes(headopt)) {
-  $done({status: "HTTP/1.1 204 No Content"});
+if ("0007" == obj.placementNo) {
+    SZETO.materialsList = [{
+        billMaterialsId: "6491",
+        filePath: "ddgksf2013",
+        creativeType: 1
+    }];
+    SZETO.advertParam = { skipTime: 1 };
+    SZETO.code = "00";
+} else if ("G0054" == obj.placementNo) {
+    SZETO = { code: "00", materialsList: [{}] };
 } else {
-  $done({});
+    SZETO = { code: "00", message: "无广告返回" };
+}
+
+if (typeof $task != "undefined") {
+    $done({ body: JSON.stringify(SZETO) });
+} else {
+    $done({ response: { body: JSON.stringify(SZETO) } });
 }

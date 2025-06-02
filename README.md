@@ -1,3 +1,10 @@
+<!-- 
+# Author : SZETO
+# Version : 2.0
+# URL : https://github.com/Szeto7
+# Update : 06/02/2025 21:10:04 (GMT+8)
+-->
+
 ### 1️⃣ Quantumult X 配置
   - 配置文件最新维护时间 : 05/31/2025
   - 自用配置文件 [QuantumultX.conf](https://raw.githubusercontent.com/Szeto7/QuanX/refs/heads/master/QX.conf)

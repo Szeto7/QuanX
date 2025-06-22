@@ -2,7 +2,7 @@
 # Author : SZETO
 # Version : 2.0
 # URL : https://github.com/Szeto7
-# Update : 06/02/2025 21:10:04 (GMT+8)
+# Update : 06/22/2025 10:47:15 (GMT+8)
 -->
 
 ### 1️⃣ Quantumult X 配置
@@ -27,7 +27,7 @@
   - 自用复写规则 [rewrite.conf](https://raw.githubusercontent.com/Szeto7/QuanX/refs/heads/master/rewrite.conf)
 ### 4️⃣ 自用资源
   - 增强Apple系统功能 [iRingo](https://nsringo.github.io/index.html)
-  - 自用机场推荐 [zcssr](https://zc064.xyz/auth/register?code=7yAN)
+  - 自用机场推荐 [zcssr](https://zc064.xyz/auth/register?code=SU8X)
   - IOS脱壳APP下载 [decrypt](https://decrypt.day)
   - IOS证书推荐 [Dumpapp](https://www.dumpapp.com/register?invite_code=GAYpwg)
 ### 5️⃣ REF

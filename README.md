@@ -1,13 +1,13 @@
 <!-- 
-# Author : SZETO
-# Version : 2.0
-# URL : https://github.com/Szeto7
-# Update : 11/04/2025 15:08:53 (GMT+8)
+# Author : 废宗·Feizong
+# Version : 2.1
+# URL : https://github.com/Feizongg/QX
+# Update : 02/03/2026 10:50:54 (GMT+8)
 -->
 
 ### 1️⃣ Quantumult X 配置
   - 配置文件最新维护时间 : 05/31/2025
-  - 自用配置文件 [QuantumultX.conf](https://raw.githubusercontent.com/Szeto7/QuanX/refs/heads/master/QX.conf)
+  - 自用配置文件 [QuantumultX.conf](https://raw.githubusercontent.com/Feizongg/QX/refs/heads/master/QX.conf)
   
     > 食用方法 : Quantumult X 设置 -> 下载配置 -> 替换节点信息  
     
@@ -17,17 +17,14 @@
 
   - 该配置已测试适配AppStroe最新版 Quantumult X, 内含智能分流, 重写去广告等.
   - 适合自己才是最好的, 多多探索.
-
-### 2️⃣ Quantumult X 分流
-  - 苹果服务 [Apple.list](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list) 
-  - ChatGPT [OpenAI.list](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list) 
-  - 全球加速 [Proxy.list](https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Proxy.list)
-  - 国内直连 [ASN.China.list](https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list)
-### 3️⃣ Quantumult X 复写
-  - 自用复写规则 [rewrite.conf](https://raw.githubusercontent.com/Szeto7/QuanX/refs/heads/master/rewrite.conf)
-### 4️⃣ 自用资源
-  - 自用机场推荐 [ZCSSR](https://zc095.xyz/auth/register?code=SU8X) , [一云梯](https://inv02.1ytaff.com/register?aff=eO2fvJMB)
+### 2️⃣ Quantumult X 复写
+  - 自用复写规则 [rewrite.conf](https://raw.githubusercontent.com/Feizongg/QX/refs/heads/master/rewrite.conf)
+  - 小红书功能强化 [RedNote.conf](https://raw.githubusercontent.com/Feizongg/QX/refs/heads/master/RedNote.conf)
+  - 高德地图 [Amap.conf](https://raw.githubusercontent.com/Feizongg/QX/refs/heads/master/Amap.conf)   
+  - 网易云音乐 [Netease.conf](https://raw.githubusercontent.com/Feizongg/QX/refs/heads/master/Netease.conf)
+  - 淘票票去广告 [TaoPPads.conf](https://raw.githubusercontent.com/Feizongg/QX/refs/heads/master/TaoPPAds.conf)
+### 3️⃣ 自用资源
   - IOS脱壳APP下载 [decrypt](https://decrypt.day)
   - IOS证书推荐 [Dumpapp](https://www.dumpapp.com/register?invite_code=GAYpwg)
-### 5️⃣ REF
+### 4️⃣ REF
   - [@ddgksf2013](https://github.com/ddgksf2013) [@blackmatrix7](https://github.com/blackmatrix7)  [@ConnersHua](https://github.com/ConnersHua)  [@VirgilClyne](https://github.com/VirgilClyne)

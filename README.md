@@ -2,7 +2,7 @@
 # Author : 废宗·Feizong
 # Version : 2.1
 # URL : https://github.com/Feizongg/QX
-# Update : 02/04/2026 18:44:59 (GMT+8)
+# Update : 02/10/2026 13:43:43 (GMT+8)
 -->
 
 ### 1️⃣ Quantumult X 配置
@@ -23,7 +23,7 @@
   - 高德地图去广告 [Amapads](https://raw.githubusercontent.com/Feizongg/QX/refs/heads/master/Amap.conf)   
   - 网易云音乐去广告 [NeteaseAds](https://raw.githubusercontent.com/Feizongg/QX/refs/heads/master/Netease.conf)
   - 淘票票去广告 [TaoPPAds](https://raw.githubusercontent.com/Feizongg/QX/refs/heads/master/TaoPPAds.conf)
-  - 中国联通去广告 [ChinaUnicomAds]
+  - 中国联通去广告 [ChinaUnicomAds](https://raw.githubusercontent.com/Feizongg/QX/refs/heads/master/ChinaUnicomAds.conf)
 ### 3️⃣ 自用资源
   - IOS脱壳APP下载 [decrypt](https://decrypt.day)
   - IOS证书推荐 [Dumpapp](https://www.dumpapp.com/register?invite_code=GAYpwg)
